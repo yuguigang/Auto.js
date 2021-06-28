@@ -1,4 +1,4 @@
-package org.anonymous.fuck.tb
+package org.anti.detect
 
 import android.annotation.SuppressLint
 import android.content.Intent
